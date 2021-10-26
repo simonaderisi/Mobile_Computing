@@ -1,1 +1,1 @@
-# Mobile_Computing
+# e-Fitness Studio App
